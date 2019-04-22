@@ -1,0 +1,22 @@
+{
+  "name": "exam3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngdm-cuong/Json-NodeJS.git"
+  },
+  "author": "Cuong Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngdm-cuong/Json-NodeJS/issues"
+  },
+  "homepage": "https://github.com/ngdm-cuong/Json-NodeJS#readme",
+  "dependencies": {
+    "jsonfile": "^5.0.0"
+  }
+}
